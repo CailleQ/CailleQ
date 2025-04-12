@@ -11,10 +11,10 @@
 </em></p>
 
 [![Linkedin: Haoran MA](https://img.shields.io/badge/Caille-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/浩然-haoran-马-ma-692692264/)](www.linkedin.com/in/浩然-haoran-马-ma-692692264)
-[![GitHub Thaiane](https://img.shields.io/github/followers/Caille?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Caille](https://img.shields.io/github/followers/Caille?label=follow&style=social)](https://github.com/CailleQ)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
 
 ```javascript
 const Caille = {
@@ -34,7 +34,7 @@ const Caille = {
 //                         mentor: "EducaTRANSforma"
 //                       }, -->
 
-<img src="./Chocobo.png" width="60"> <em><b>Better to go than curse the road!</b> :)</em>
+<img src="./moi.jpg" width="60"> <em><b>Better to go than curse the road!</b> :)</em>
 
 ---
 </details>
@@ -51,10 +51,10 @@ const Caille = {
 </em></p>
 
 [![Linkedin: Haoran MA](https://img.shields.io/badge/Caille-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/浩然-haoran-马-ma-692692264/)](www.linkedin.com/in/浩然-haoran-马-ma-692692264)
-[![GitHub Thaiane](https://img.shields.io/github/followers/Caille?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Caille](https://img.shields.io/github/followers/Caille?label=follow&style=social)](https://github.com/CailleQ)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un peu plus sur moi
 
 ```javascript
 const Caille = {
@@ -74,7 +74,7 @@ const Caille = {
 //                         mentor: "EducaTRANSforma"
 //                       }, -->
 
-<img src="./Chocobo.png" width="60"> <em><b>Mieux vaut partir que maudire la route !</b> :)</em>
+<img src="./moi.jpg" width="60"> <em><b>Mieux vaut partir que maudire la route !</b> :)</em>
 
 ---
 </details>
@@ -91,10 +91,10 @@ const Caille = {
 </em></p>
 
 [![Linkedin: Haoran MA](https://img.shields.io/badge/Caille-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/浩然-haoran-马-ma-692692264/)](www.linkedin.com/in/浩然-haoran-马-ma-692692264)
-[![GitHub Thaiane](https://img.shields.io/github/followers/Caille?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Caille](https://img.shields.io/github/followers/Caille?label=follow&style=social)](https://github.com/CailleQ)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">关于我  
 
 ```javascript
 const Caille = {
@@ -114,7 +114,7 @@ const Caille = {
 //                         mentor: "EducaTRANSforma"
 //                       }, -->
 
-<img src="./Chocobo.png" width="60"> <em><b>与其感慨路难行，不如马上出发!</b> :)</em>
+<img src="./moi.jpg" width="60"> <em><b>与其感慨路难行，不如马上出发!</b> :)</em>
 
 ---
 </details>

@@ -23,7 +23,7 @@ const Caille = {
 
   architecture: ["Game Develop", "Front and Backend", "Operations and Maintenance", "computer network"],
 
- challenge: "I'm actively building up my technical knowledge to improve myself, especially regarding cybersecurity and game development."
+  challenge: "I'm actively building up my technical knowledge to improve myself, especially regarding cybersecurity and game development."
 }
 ```
 <!-- //   skills:[]

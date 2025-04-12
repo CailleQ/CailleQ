@@ -5,7 +5,7 @@
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
 <p>
     <em>Graduate from <a href="https://www.iut-orsay.universite-paris-saclay.fr/">IUT d'Orsay - Université Paris-Saclay</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-         <br> <img src="https://www.iut-orsay.universite-paris-saclay.fr/sites/default/files/media/2020-04/IUT-D-ORSAY-h-rvb.svg" width="100"a href="https://www.iut-orsay.universite-paris-saclay.fr/"><br>
+         <br> <img src="https://www.iut-orsay.universite-paris-saclay.fr/sites/default/files/media/2020-04/IUT-D-ORSAY-h-rvb.svg" width="170"a href="https://www.iut-orsay.universite-paris-saclay.fr/"><br>
         Field Sales Engineer  at <a href="https://www.yarbo.com/">Yarbo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
          <br> <img src="https://img-va.myshopline.com/image/store/1737714205978/4110f50aacdb457fa3890c2fc01e347d.png" width="100"a href="https://www.yarbo.com/"><br>
 </em></p>

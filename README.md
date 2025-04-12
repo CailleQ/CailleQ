@@ -4,9 +4,10 @@
 <h2> Hi, I'm Caille(haoran MA)! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
 <p>
-  <em>Graduate from <a href="https://www.iut-orsay.universite-paris-saclay.fr/">IUT d'Orsay - Université Paris-Saclay</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-<img src="https://www.iut-orsay.universite-paris-saclay.fr/sites/default/files/media/2020-04/IUT-D-ORSAY-h-rvb.svg" width="30"><br> 
-      Field Sales Engineer  at <a href="https://www.yarbo.com/">Yarbo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    <em>Graduate from <a href="https://www.iut-orsay.universite-paris-saclay.fr/">IUT d'Orsay - Université Paris-Saclay</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+         <br> <img src="https://www.iut-orsay.universite-paris-saclay.fr/sites/default/files/media/2020-04/IUT-D-ORSAY-h-rvb.svg" width="100"><br>
+        Field Sales Engineer  at <a href="https://www.yarbo.com/">Yarbo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+         <br> <img src="https://img-va.myshopline.com/image/store/1737714205978/4110f50aacdb457fa3890c2fc01e347d.png" width="100"><br>
 </em></p>
 
 [![Linkedin: Haoran MA](https://img.shields.io/badge/Caille-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/浩然-haoran-马-ma-692692264/)](www.linkedin.com/in/浩然-haoran-马-ma-692692264)
